@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "883841493928",
+    "firebase_url": "https://blood-request-donate-default-rtdb.firebaseio.com",
+    "project_id": "blood-request-donate",
+    "storage_bucket": "blood-request-donate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883841493928:android:7e2af59114f1356c50cb9d",
+        "android_client_info": {
+          "package_name": "com.example.brd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883841493928-fn00ro637ec5fffhg3htp4guq17aamkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brd",
+            "certificate_hash": "a004643b72f238fc7278a9a3ce009b8f1b8dd47c"
+          }
+        },
+        {
+          "client_id": "883841493928-6c2f70v5vl5fp3k3uklr4r28i6n8td87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdnMX_aRshtecl9Z7QbAe001UZSqV48VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883841493928-6c2f70v5vl5fp3k3uklr4r28i6n8td87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
